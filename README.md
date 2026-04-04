@@ -203,15 +203,6 @@ Conclusion:
 •	Exception handling needs a stronger data governance framework, especially around weight misreporting and unusual delivery gaps.
 
 
-How to Use This Project:
-
-• Clone or download this repository.
-
-•	Load the dataset into your MySQL environment.
-
-•	Run the queries from the `DTDC_Analysis.sql` file.
-
-•	Interpret the results to generate business insights.
 
 
 Author Profile:
